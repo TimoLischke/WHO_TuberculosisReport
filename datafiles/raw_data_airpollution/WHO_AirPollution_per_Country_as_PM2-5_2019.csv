@@ -1,0 +1,196 @@
+continent_code,continent_name,country_code,country_name,year,avg_air_pollution_PM2-5_in_2019,avg_air_pollution_PM2-5_low,avg_air_pollution_PM2-5_hi
+AMR,Americas,GRD,Grenada,2019,10.08,7.07,13.2
+AMR,Americas,TTO,Trinidad and Tobago,2019,10.26,7.93,12.59
+EUR,Europe,LTU,Lithuania,2019,10.37,9.29,11.22
+EUR,Europe,FRA,France,2019,10.46,10.27,10.65
+AFR,Africa,MUS,Mauritius,2019,10.48,8.25,12.84
+AMR,Americas,BLZ,Belize,2019,10.51,4.33,20.5
+EUR,Europe,DEU,Germany,2019,10.73,10.56,10.93
+EUR,Europe,NLD,Netherlands,2019,10.74,10.39,11.13
+WPR,Western Pacific,JPN,Japan,2019,10.84,10.02,11.55
+AMR,Americas,BRA,Brazil,2019,10.94,9.37,13.01
+AMR,Americas,GUY,Guyana,2019,11.11,5.71,18.35
+EUR,Europe,BEL,Belgium,2019,11.26,10.87,11.62
+EUR,Europe,AUT,Austria,2019,11.51,11.2,11.88
+AMR,Americas,PAN,Panama,2019,11.78,8.46,15.13
+AFR,Africa,NAM,Namibia,2019,11.81,6.32,18.88
+EUR,Europe,LVA,Latvia,2019,12.02,10.69,13.42
+AMR,Americas,ARG,Argentina,2019,12.04,8.92,15.57
+AMR,Americas,SUR,Suriname,2019,12.17,6.81,18.69
+AMR,Americas,PRY,Paraguay,2019,12.31,9.32,17.95
+EUR,Europe,MDA,Republic of Moldova,2019,12.37,9.11,15.99
+AFR,Africa,KEN,Kenya,2019,12.52,7.8,17.78
+AFR,Africa,BWA,Botswana,2019,12.82,9.27,18.78
+EUR,Europe,MLT,Malta,2019,12.93,11.84,14.32
+SEAR,South-East Asia,MDV,Maldives,2019,13.0,10.33,16.7
+AFR,Africa,ZWE,Zimbabwe,2019,13.08,7.05,22.7
+EUR,Europe,ROU,Romania,2019,13.3,12.55,14.1
+AMR,Americas,CUB,Cuba,2019,13.32,9.73,19.28
+WPR,Western Pacific,SGP,Singapore,2019,13.33,10.54,17.56
+EMR,Eastern Mediterranean,MAR,Morocco,2019,13.44,11.03,16.52
+EUR,Europe,UKR,Ukraine,2019,13.51,10.05,18.45
+AMR,Americas,COL,Colombia,2019,14.04,11.7,16.76
+EUR,Europe,SVN,Slovenia,2019,14.08,13.36,14.9
+EUR,Europe,ITA,Italy,2019,14.22,13.99,14.44
+EUR,Europe,HUN,Hungary,2019,14.24,13.4,15.11
+EMR,Eastern Mediterranean,SOM,Somalia,2019,14.28,7.65,24.25
+EUR,Europe,CZE,Czechia,2019,14.34,13.96,14.79
+AFR,Africa,COM,Comoros,2019,14.37,7.4,23.58
+EUR,Europe,CYP,Cyprus,2019,14.52,12.86,16.16
+EUR,Europe,GRC,Greece,2019,14.62,13.51,15.76
+AMR,Americas,CRI,Costa Rica,2019,14.7,12.73,17.14
+AMR,Americas,JAM,Jamaica,2019,14.83,12.5,17.46
+AFR,Africa,SWZ,Eswatini,2019,15.07,10.56,20.01
+EUR,Europe,HRV,Croatia,2019,15.29,14.16,16.51
+AFR,Africa,TZA,United Republic of Tanzania,2019,15.36,10.79,22.53
+EUR,Europe,BLR,Belarus,2019,15.48,13.25,17.71
+EUR,Europe,SVK,Slovakia,2019,15.89,15.15,16.69
+AMR,Americas,NIC,Nicaragua,2019,16.0,10.98,21.96
+AFR,Africa,MDG,Madagascar,2019,16.02,11.16,23.84
+AMR,Americas,VEN,Venezuela (Bolivarian Republic of),2019,16.21,11.55,21.76
+EUR,Europe,ALB,Albania,2019,16.28,14.73,18.21
+AFR,Africa,MOZ,Mozambique,2019,16.45,8.55,26.26
+AMR,Americas,ECU,Ecuador,2019,16.55,13.18,20.05
+AFR,Africa,ZMB,Zambia,2019,16.9,7.65,31.61
+AFR,Africa,SYC,Seychelles,2019,16.96,12.23,23.37
+EUR,Europe,BGR,Bulgaria,2019,17.29,16.54,18.21
+AFR,Africa,LSO,Lesotho,2019,17.6,12.13,26.64
+WPR,Western Pacific,KHM,Cambodia,2019,17.8,16.09,19.5
+AMR,Americas,MEX,Mexico,2019,17.83,16.33,19.65
+AFR,Africa,MWI,Malawi,2019,18.57,6.2,37.49
+EUR,Europe,POL,Poland,2019,18.83,18.4,19.2
+AMR,Americas,HND,Honduras,2019,18.93,13.48,25.56
+EUR,Europe,GEO,Georgia,2019,19.06,14.48,23.86
+EUR,Europe,MNE,Montenegro,2019,19.3,17.34,22.2
+SEAR,South-East Asia,IDN,Indonesia,2019,19.34,16.76,23.72
+EUR,Europe,ISR,Israel,2019,19.47,18.17,20.74
+AFR,Africa,ZAF,South Africa,2019,19.75,18.26,21.8
+EMR,Eastern Mediterranean,DJI,Djibouti,2019,19.98,7.7,41.73
+AFR,Africa,SSD,South Sudan,2019,20.18,10.45,34.95
+SEAR,South-East Asia,TLS,Timor-Leste,2019,20.47,9.02,42.19
+AMR,Americas,CHL,Chile,2019,20.49,19.31,21.89
+AMR,Americas,GTM,Guatemala,2019,20.75,16.18,26.65
+WPR,Western Pacific,VNM,Viet Nam,2019,20.89,16.58,24.31
+WPR,Western Pacific,LAO,Lao People's Democratic Republic,2019,21.15,16.86,25.13
+EMR,Eastern Mediterranean,SDN,Sudan,2019,21.43,11.01,38.91
+WPR,Western Pacific,MYS,Malaysia,2019,21.52,20.55,22.8
+EUR,Europe,SRB,Serbia,2019,21.74,20.2,23.14
+AFR,Africa,ETH,Ethiopia,2019,21.8,13.02,32.47
+AMR,Americas,SLV,El Salvador,2019,22.15,14.49,31.82
+WPR,Western Pacific,PHL,Philippines,2019,22.45,19.16,25.91
+AFR,Africa,DZA,Algeria,2019,22.68,14.54,35.29
+AFR,Africa,ERI,Eritrea,2019,22.74,9.19,50.66
+EUR,Europe,TUR,Türkiye,2019,23.25,21.83,24.55
+SEAR,South-East Asia,LKA,Sri Lanka,2019,23.88,17.38,31.79
+WPR,Western Pacific,KOR,Republic of Korea,2019,24.04,23.39,24.75
+EMR,Eastern Mediterranean,LBN,Lebanon,2019,24.23,18.05,32.45
+EUR,Europe,AZE,Azerbaijan,2019,24.64,13.74,37.54
+SEAR,South-East Asia,THA,Thailand,2019,24.64,22.75,26.42
+EMR,Eastern Mediterranean,SYR,Syrian Arab Republic,2019,25.14,20.69,30.41
+EUR,Europe,MKD,North Macedonia,2019,25.17,23.56,27.13
+AMR,Americas,BOL,Bolivia (Plurinational State of),2019,25.23,16.41,36.37
+AFR,Africa,GNQ,Equatorial Guinea,2019,25.67,6.05,70.96
+EMR,Eastern Mediterranean,JOR,Jordan,2019,25.87,22.58,29.14
+SEAR,South-East Asia,BTN,Bhutan,2019,26.1,23.46,28.81
+EUR,Europe,BIH,Bosnia and Herzegovina,2019,26.19,24.23,28.67
+AFR,Africa,GAB,Gabon,2019,26.29,6.59,82.24
+EUR,Europe,TKM,Turkmenistan,2019,26.41,17.35,38.93
+EUR,Europe,KAZ,Kazakhstan,2019,26.5,19.01,34.73
+EMR,Eastern Mediterranean,TUN,Tunisia,2019,26.52,17.92,37.37
+SEAR,South-East Asia,MMR,Myanmar,2019,27.16,23.48,30.97
+AFR,Africa,AGO,Angola,2019,27.16,5.85,89.91
+AFR,Africa,CAF,Central African Republic,2019,27.2,6.12,74.79
+AFR,Africa,BDI,Burundi,2019,28.0,11.05,60.89
+AMR,Americas,PER,Peru,2019,29.07,22.2,38.42
+AFR,Africa,COG,Congo,2019,29.48,6.42,102.4
+EMR,Eastern Mediterranean,LBY,Libya,2019,29.84,14.82,51.18
+EMR,Eastern Mediterranean,PSE,"occupied Palestinian territory, including east Jerusalem",2019,30.82,21.73,41.92
+AFR,Africa,CPV,Cabo Verde,2019,31.08,16.56,56.39
+AFR,Africa,UGA,Uganda,2019,31.31,19.79,46.69
+AFR,Africa,BEN,Benin,2019,31.51,20.62,47.27
+AFR,Africa,COD,Democratic Republic of the Congo,2019,31.58,7.13,99.19
+EMR,Eastern Mediterranean,IRN,Iran (Islamic Republic of),2019,31.62,27.47,35.52
+AFR,Africa,STP,Sao Tome and Principe,2019,33.75,17.16,58.34
+EUR,Europe,ARM,Armenia,2019,34.13,24.44,47.1
+AFR,Africa,GNB,Guinea-Bissau,2019,34.85,18.06,63.14
+EMR,Eastern Mediterranean,OMN,Oman,2019,34.88,22.13,56.89
+AFR,Africa,RWA,Rwanda,2019,35.66,12.05,72.86
+AFR,Africa,TGO,Togo,2019,35.66,21.71,56.78
+AFR,Africa,LBR,Liberia,2019,35.8,18.19,64.65
+SEAR,South-East Asia,NPL,Nepal,2019,36.43,31.71,42.97
+AFR,Africa,GIN,Guinea,2019,37.57,21.99,72.05
+EUR,Europe,KGZ,Kyrgyzstan,2019,37.58,26.16,52.31
+WPR,Western Pacific,CHN,China,2019,38.15,36.69,39.42
+AFR,Africa,SEN,Senegal,2019,38.21,22.11,57.29
+AFR,Africa,MLI,Mali,2019,38.55,14.8,83.34
+AFR,Africa,GMB,Gambia,2019,39.1,21.1,64.94
+EMR,Eastern Mediterranean,IRQ,Iraq,2019,39.29,31.91,49.48
+AFR,Africa,SLE,Sierra Leone,2019,39.42,17.82,74.99
+AFR,Africa,CIV,Cote d'Ivoire,2019,40.41,22.75,68.96
+AFR,Africa,BFA,Burkina Faso,2019,40.74,16.57,91.48
+EUR,Europe,UZB,Uzbekistan,2019,40.98,29.83,57.12
+AFR,Africa,TCD,Chad,2019,41.15,22.52,69.38
+WPR,Western Pacific,MNG,Mongolia,2019,41.3,30.68,53.5
+SEAR,South-East Asia,PRK,Democratic People's Republic of Korea,2019,41.46,31.42,53.61
+EMR,Eastern Mediterranean,YEM,Yemen,2019,41.61,14.4,85.18
+EMR,Eastern Mediterranean,ARE,United Arab Emirates,2019,41.75,35.66,50.29
+AFR,Africa,MRT,Mauritania,2019,41.98,17.86,90.84
+SEAR,South-East Asia,BGD,Bangladesh,2019,45.99,41.65,51.0
+AFR,Africa,GHA,Ghana,2019,46.04,31.19,69.74
+AMR,Americas,BHS,Bahamas,2019,5.2,3.77,7.05
+EUR,Europe,FIN,Finland,2019,5.47,5.16,5.76
+EUR,Europe,ISL,Iceland,2019,5.79,5.11,6.46
+EUR,Europe,SWE,Sweden,2019,5.96,5.7,6.22
+EMR,Eastern Mediterranean,PAK,Pakistan,2019,50.13,41.1,59.96
+AFR,Africa,NER,Niger,2019,50.15,21.92,99.9
+SEAR,South-East Asia,IND,India,2019,50.17,47.87,52.43
+EMR,Eastern Mediterranean,BHR,Bahrain,2019,51.82,45.88,57.66
+EUR,Europe,TJK,Tajikistan,2019,53.65,38.18,76.75
+AFR,Africa,NGA,Nigeria,2019,55.64,37.64,76.88
+AFR,Africa,CMR,Cameroon,2019,56.37,39.06,79.81
+EMR,Eastern Mediterranean,SAU,Saudi Arabia,2019,57.16,40.09,76.04
+EMR,Eastern Mediterranean,QAT,Qatar,2019,59.04,45.74,70.2
+EUR,Europe,NOR,Norway,2019,6.3,5.95,6.63
+EUR,Europe,EST,Estonia,2019,6.35,5.83,6.94
+AMR,Americas,CAN,Canada,2019,6.39,6.21,6.59
+WPR,Western Pacific,NIU,Niue,2019,6.74,3.15,13.16
+WPR,Western Pacific,TUV,Tuvalu,2019,6.81,2.59,13.49
+WPR,Western Pacific,BRN,Brunei Darussalam,2019,6.86,5.76,8.32
+EMR,Eastern Mediterranean,AFG,Afghanistan,2019,62.49,45.04,86.46
+EMR,Eastern Mediterranean,EGY,Egypt,2019,63.16,40.38,92.33
+EMR,Eastern Mediterranean,KWT,Kuwait,2019,64.08,55.65,72.49
+AMR,Americas,USA,United States of America,2019,7.18,7.07,7.28
+WPR,Western Pacific,MHL,Marshall Islands,2019,7.21,2.62,15.2
+EUR,Europe,PRT,Portugal,2019,7.34,7.1,7.57
+WPR,Western Pacific,FJI,Fiji,2019,7.36,3.69,11.78
+WPR,Western Pacific,NRU,Nauru,2019,7.4,2.89,14.43
+WPR,Western Pacific,TON,Tonga,2019,7.52,4.22,12.61
+AMR,Americas,DOM,Dominican Republic,2019,7.59,4.67,11.52
+WPR,Western Pacific,KIR,Kiribati,2019,7.62,3.14,16.26
+WPR,Western Pacific,WSM,Samoa,2019,7.78,2.67,17.69
+WPR,Western Pacific,FSM,Micronesia (Federated States of),2019,7.79,3.27,15.61
+WPR,Western Pacific,COK,Cook Islands,2019,7.8,3.25,16.85
+WPR,Western Pacific,PLW,Palau,2019,7.82,2.93,17.42
+WPR,Western Pacific,SLB,Solomon Islands,2019,7.83,2.86,15.0
+AMR,Americas,KNA,Saint Kitts and Nevis,2019,8.05,6.19,10.41
+EUR,Europe,IRL,Ireland,2019,8.2,7.66,8.65
+AMR,Americas,DMA,Dominica,2019,8.22,5.78,12.05
+AMR,Americas,ATG,Antigua and Barbuda,2019,8.3,5.72,11.54
+WPR,Western Pacific,VUT,Vanuatu,2019,8.42,3.25,18.69
+AMR,Americas,URY,Uruguay,2019,8.48,6.67,10.7
+EUR,Europe,AND,Andorra,2019,8.52,7.49,10.05
+WPR,Western Pacific,NZL,New Zealand,2019,8.61,8.11,9.11
+EUR,Europe,RUS,Russian Federation,2019,8.88,7.31,10.85
+WPR,Western Pacific,PNG,Papua New Guinea,2019,8.89,3.18,19.45
+EUR,Europe,LUX,Luxembourg,2019,8.89,8.4,9.4
+WPR,Western Pacific,AUS,Australia,2019,8.93,8.61,9.27
+EUR,Europe,CHE,Switzerland,2019,8.97,8.73,9.23
+AMR,Americas,LCA,Saint Lucia,2019,8.98,6.51,11.84
+EUR,Europe,MCO,Monaco,2019,9.21,8.24,10.27
+EUR,Europe,ESP,Spain,2019,9.34,9.14,9.56
+AMR,Americas,VCT,Saint Vincent and the Grenadines,2019,9.41,6.18,13.21
+EUR,Europe,GBR,United Kingdom of Great Britain and Northern Ireland,2019,9.52,9.17,9.82
+EUR,Europe,DNK,Denmark,2019,9.66,8.77,10.69
+AMR,Americas,HTI,Haiti,2019,9.69,5.41,16.64
+AMR,Americas,BRB,Barbados,2019,9.79,6.9,13.99
+EUR,Europe,SMR,San Marino,2019,9.85,8.21,11.53
