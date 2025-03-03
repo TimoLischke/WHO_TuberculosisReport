@@ -38,8 +38,13 @@ https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
 Data cleaning & wrangling:
 Jupyter Notebook: data_cleaning.ipynb
 Dropping all unnecessary column, dropping all rows of years other than 2023
-Adding contry iso2 and iso3 codes when missing
+Adding contry iso2 and iso3 codes when missing to all additional data tables
 Checking for null values and duplicates 
+Filling all missing values with NaN 
+Merging selected columns of all additional data tables to the df_TB_burden on "iso3"
+Safe the cleaned and enriched data file as: df_TB_burden_enriched
+
+Exploratory Data Analysis:
 
 
 Project Presentation:
