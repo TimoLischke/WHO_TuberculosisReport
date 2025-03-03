@@ -9,12 +9,16 @@ https://en.wikipedia.org/wiki/Tuberculosis
 https://en.wikipedia.org/wiki/BCG_vaccine 
 https://cdn.who.int/media/docs/default-source/global-tuberculosis-report-2024/who_global-tb-report-2024_infographics_full.pdf?sfvrsn=203f6d58_7
 https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2024/tb-prevention-and-screening
- 
+https://www.worlddata.info/countrycodes.php
+
 Tuberculosis Incidence Data Set by WHO:
 https://www.who.int/teams/global-tuberculosis-programme/data
 https://data.europa.eu/data/datasets/tuberculosis-data
 
 Data Enrichment:
+Jupyter Notebook: data_acquisition.ipynb
+TB specific factors: multidrug resistance, specifically rifampicin resistance:
+https://www.who.int/teams/global-tuberculosis-programme/data 
 Healthcare System Factors:
 BCG vaccination rate / coverage by WHO:
 https://immunizationdata.who.int/global/wiise-detail-page/bacillus-calmette-gu%C3%A9rin-(bcg)-vaccination-coverage?GROUP=Countries&YEAR=&CODE= 
@@ -31,8 +35,11 @@ https://www.iqair.com/us/world-most-polluted-countries
 Air pollution data (annual average PM2.5 concentration in μg/m³) for 2019 was downloaded from WHO:
 https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database
 
-
-
+Data cleaning & wrangling:
+Jupyter Notebook: data_cleaning.ipynb
+Dropping all unnecessary column, dropping all rows of years other than 2023
+Adding contry iso2 and iso3 codes when missing
+Checking for null values and duplicates 
 
 
 Project Presentation:
