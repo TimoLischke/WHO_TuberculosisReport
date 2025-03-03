@@ -1,4 +1,4 @@
-# WHO_TuberculosisReport
+WHO_TuberculosisReport_2024 --> reporting the TB incidence numbers for 2023
 Correlation and prediction of Tuberculosis incidences according to socialeconomic and environmental circumstances
 
 Landing webpage:
@@ -45,7 +45,28 @@ Merging selected columns of all additional data tables to the df_TB_burden on "i
 Safe the cleaned and enriched data file as: df_TB_burden_enriched
 
 Exploratory Data Analysis:
+Jupyter Notebook: exploratory_data_analysis.ipynb
+Some more data polishing: reduce length of country names for the longest 12 country names
+Remove duplicated "Congo" rows. (Only Democratic Republic of Congo kept.)
+Replace iso2 code for Namibia: NaN --> NA.
+Add calculated value: TB incidence rate in percent "e_tb_inc_prct":
+df_TB_burden_enriched["e_tb_inc_prct"] = (df_TB_burden_enriched["e_inc_num"] / df_TB_burden_enriched["e_pop_num"]) * 100
+Add categorical value: Categorization of the tuberculosis incidence rate (%)
+in the column "e_tb_inc_prct" into tuberculosis severity levels "tb_severity":
+Based on SD intervals: 0.1 (Mean), 0.244 (Mean to Mean + 1 SD), & 0.388 (Mean + 1 SD to Mean + 2 SD) --> 5 Levels
+"Very Low <= 0.05; "Low" <= 0.1, "Moderate" <= 0.244, "High" <= 0.388, "Critical" >= 0.388
+Create histograms of all columns.
+Visualization: Display top 5 countries per world region according to: 
+TB incidences, treatment resistance, BCG vaccination rate, population density, poverty index, smoking rates, air pollution
+Create Pie Charts of Tuberculosis severity per world region
 
+Supervised machine learning models to predict TB incidence and severity:
+Jupyter Notebook: machine_learning.ipynb
+
+
+
+Translation of categorical string values in the column "TB_severity" into integers stored in "TB_severity_level":
+Very Low = 1, Low = 2, Moderate = 3, High = 4, Critical = 5
 
 Project Presentation:
 https://www.canva.com/design/DAGgMWLzK3s/rlaceoHXzFSAwmsJoI3y2w/edit 
