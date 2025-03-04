@@ -1,5 +1,10 @@
 WHO_TuberculosisReport_2024 --> reporting the TB incidence numbers for 2023
-Correlation and prediction of Tuberculosis incidences according to socialeconomic and environmental circumstances
+Correlation and prediction of Tuberculosis incidences and severity level according to health, socialeconomic and environmental factors
+
+Objective:
+Use the WHO dataset on tuberculosis (TB) incidences per country for 2023.
+Enrich the dataset with further health, socialeconomic and environmental data.
+Make predictions using supervised machine learning models about TB incidences and severity level.
 
 Landing webpage:
 https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2024
@@ -47,7 +52,7 @@ Safe the cleaned and enriched data file as: df_TB_burden_enriched
 Exploratory Data Analysis:
 Jupyter Notebook: exploratory_data_analysis.ipynb
 Some more data polishing: reduce length of country names for the longest 12 country names
-Remove duplicated "Congo" rows. (Only Democratic Republic of Congo kept.)
+Remove duplicated "Congo" rows. (Only Democratic Republic of Congo kept. Congo dropped.)
 Replace iso2 code for Namibia: NaN --> NA.
 Add calculated value: TB incidence rate in percent "e_tb_inc_prct":
 df_TB_burden_enriched["e_tb_inc_prct"] = (df_TB_burden_enriched["e_inc_num"] / df_TB_burden_enriched["e_pop_num"]) * 100
@@ -60,13 +65,26 @@ Visualization: Display top 5 countries per world region according to:
 TB incidences, treatment resistance, BCG vaccination rate, population density, poverty index, smoking rates, air pollution
 Create Pie Charts of Tuberculosis severity per world region
 
-Supervised machine learning models to predict TB incidence and severity:
+Supervised machine learning models to predict TB incidence and severity level:
 Jupyter Notebook: machine_learning.ipynb
-
-
-
 Translation of categorical string values in the column "TB_severity" into integers stored in "TB_severity_level":
 Very Low = 1, Low = 2, Moderate = 3, High = 4, Critical = 5
+Feature engineering: Draw a correlation map for features with target column
+Select 3 + 6 feature columns.
+Select target column: TB_severity_level 
+Train/Test data splitting: 80% + 20%
+Normlization: MinMax Scaler for standardization
+Checking balance of target data (TB severity level)
+Supervised machine learning models to predict Tuberculosis severity level
+Feature columns contain NaN values. This limits the number of models that can be used.
+Running Ensemble ML Modelling Methods: HistGradientBoostingClassifier & RandomForestClassifier
+Evaluation of both models according to accuracy & F1-score.
+Visualization of the Feature Importance in the Random Forest Classifier Model.
+Visualization of the Decision Tree nodes of the first tree in the Random Forest.
+Target Data Balancing & Class Weight Balancing to improve Random Forest Classifier model prediction.
+Hyperparameter Tuning using GridSearch to improve HistGradientBoosting Classifier model prediction.
+
+
 
 Project Presentation:
 https://www.canva.com/design/DAGgMWLzK3s/rlaceoHXzFSAwmsJoI3y2w/edit 
