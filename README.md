@@ -88,6 +88,10 @@ Target Data Balancing & Class Weight Balancing to improve Random Forest Classifi
 Hyperparameter Tuning using GridSearch to improve HistGradientBoosting Classifier model prediction.
 Evaluation of prediction models using aggregated confusion matrices.
 
+Tableau Visualization:
+Jupyter Notebook: tableau.ipynb
+Tableau File: _____
+Select and drop column to create a table containing only relevant information. 
 
 
 
