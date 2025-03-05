@@ -87,6 +87,7 @@ Visualization of the Decision Tree nodes of the first tree in the Random Forest.
 Target Data Balancing & Class Weight Balancing to improve Random Forest Classifier model prediction.
 Hyperparameter Tuning using GridSearch to improve HistGradientBoosting Classifier model prediction.
 Evaluation of prediction models using aggregated confusion matrices.
+Implementation of unsupervised clustering algorithms: KMeans & Hierarchical Clustering
 
 Tableau Visualization:
 Jupyter Notebook: tableau.ipynb
