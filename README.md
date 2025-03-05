@@ -77,12 +77,17 @@ Normlization: MinMax Scaler for standardization
 Checking balance of target data (TB severity level)
 Supervised machine learning models to predict Tuberculosis severity level
 Feature columns contain NaN values. This limits the number of models that can be used.
-Running Ensemble ML Modelling Methods: HistGradientBoostingClassifier & RandomForestClassifier
+Running Ensemble ML Modelling Methods: 
+HistGradientBoostingClassifier: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html
+RandomForestClassifier: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 Evaluation of both models according to accuracy & F1-score.
+Visualization of the Feature Importance (Total Permutation Importance) in the HistGradientBoosting Classifier Model.
 Visualization of the Feature Importance in the Random Forest Classifier Model.
 Visualization of the Decision Tree nodes of the first tree in the Random Forest.
 Target Data Balancing & Class Weight Balancing to improve Random Forest Classifier model prediction.
 Hyperparameter Tuning using GridSearch to improve HistGradientBoosting Classifier model prediction.
+Evaluation of prediction models using aggregated confusion matrices.
+
 
 
 
