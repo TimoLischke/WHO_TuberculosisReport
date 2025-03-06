@@ -91,10 +91,17 @@ Implementation of unsupervised clustering algorithms: KMeans & Hierarchical Clus
 
 Tableau Visualization:
 Jupyter Notebook: tableau.ipynb
-Tableau File: _____
+Tableau File: TB_burden.twbx
 Select and drop column to create a table containing only relevant information. 
+Cloropleth world maps of TB incidence, BCG vaccination coverage & MPI.
+Box Whiskers Plot of MPI value in 6 world regions.
+Stacked bar charts of TB severity level & poverty level (mistakes in there) in 6 world regions.
+Scatter plot to analyze correlation between TB severity & MPI (not meaningful).
+Dashboard combining the three cloropleth world maps, the Box Whiskers Plot of MPI
+and Stacked bar charts of TB severity level
 
-
+Dashboard on Tableau Public:  "TB_severity_level_Timo"
+https://public.tableau.com/views/TB_severity_level_Timo/TB_severity?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Project Presentation:
 https://www.canva.com/design/DAGgMWLzK3s/rlaceoHXzFSAwmsJoI3y2w/edit 
